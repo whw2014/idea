@@ -20,6 +20,7 @@ public class TestController {
         System.out.print("ascvavmd");
         System.out.print("ascvavmd");
         System.out.print("版本回退");
+        System.out.print("版本回退");
         return "abc";
     }
 }
