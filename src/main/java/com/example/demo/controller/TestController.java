@@ -16,6 +16,7 @@ public class TestController {
     public String getSuperSpeciesIndustryList(HttpServletRequest request, HttpServletResponse response){
 
         System.out.print("ascvavmd");
+        System.out.print("ascvavmd");
         return "abc";
     }
 }
